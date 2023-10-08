@@ -1,10 +1,10 @@
 <link rel="stylesheet"
 href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
-##### SCIENCE
+## SCIENCE
 
 
-### Nebula
+#### Nebula
 = A huge cloud of **gas and dust**from which new stars and galaxies form
 
 #### St. Augustine
