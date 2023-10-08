@@ -7,8 +7,8 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 ___
 
 #### HAND TOOLS
-- A hand tool is a device for performing work on a material or physical system using only hands.
-- The hand tool can be manually used employing force or electrically powered, using electric current.
+• A hand tool is a device for performing work on a material or physical system using only hands.
+• The hand tool can be manually used employing force or electrically powered, using electric current.
 
 #### FLAT SCREW DRIVERS
 A flat-head screwdriver is a screwdriver with a wedge- shaped flat tip, used to tighten or loosen screws that have a straight, linear notch
