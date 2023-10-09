@@ -3,17 +3,17 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
 #### ICT
 
-- The World Wide Web
-- Trends in ICT
-- Online Systems, Functions, and
+• The World Wide Web
+• Trends in ICT
+• Online Systems, Functions, and
 Platforms.
-- Contextualised Online Search and
+• Contextualised Online Search and
 Vital Research Skills
 
 ***
 ## lesson 1
 ### WORLD WIDE WEB
-- Also known as “www.” as s introduced by **Tim Berners- Lee in 1989**
+• Also known as “www.” as s introduced by **Tim Berners- Lee in 1989**
 
 #### WWW Consortium
 **organization** dedicated in promoting **www standards**, pioneered the standardization of the protocols applied to the websites that are linked to the World Wide Web.
@@ -25,12 +25,12 @@ Website pages are **static** The pages do not allow interactivity with the user.
 
 #### Web 2.0
 Was coined by **Darcy DiNucci** in **1999**.
-- Allowed **interactivity**.
-- It has user-generated contents.
+• Allowed **interactivity**.
+• It has user-generated contents.
 
 #### Web 3.0
-- Known as **semantic web**
-- It adheres to minimalist design.
+• Known as **semantic web**
+• It adheres to minimalist design.
 
 “cryptocurrency”
 
@@ -86,12 +86,12 @@ Using several search engines like Yahoo, Google, and Bing, a multitude of inform
 
 Searching can be done for personal, academic, and professional purposes
 
-- BE FAMILIAR OF SEARCH ENGINES THAT YOU CAN USE IN YOUR ONLINE SEARCH.
-- KEEP A RECORD OF WEBSITES, WEB PAGES, AND ONLINE DATABASES THAT YOU ACCESS FOR SPECIFIC INFORMATION THAT YOU NEED
-- KNOW THE KETWORDS OR KEY PHRASES OF THE TOPIC YOU ARE SEARCHING ONLINE
-- UTILIZE COMMERCIAL SEARCHING PLATFORMS LIKE EBSCOHOST AND PROQUEST
-- ORGANIZED YOUR SEARCHED DATA BY KEEPING THEM IN WELL-LABELLED FOLDERS OR DOCUMENTS.
-- CREATE A BACKUP RESSAERCHED AND SAVED
+• BE FAMILIAR OF SEARCH ENGINES THAT YOU CAN USE IN YOUR ONLINE SEARCH.
+• KEEP A RECORD OF WEBSITES, WEB PAGES, AND ONLINE DATABASES THAT YOU ACCESS FOR SPECIFIC INFORMATION THAT YOU NEED
+• KNOW THE KETWORDS OR KEY PHRASES OF THE TOPIC YOU ARE SEARCHING ONLINE
+• UTILIZE COMMERCIAL SEARCHING PLATFORMS LIKE EBSCOHOST AND PROQUEST
+• ORGANIZED YOUR SEARCHED DATA BY KEEPING THEM IN WELL-LABELLED FOLDERS OR DOCUMENTS.
+• CREATE A BACKUP RESSAERCHED AND SAVED
 - GIVE CREDIT TO YOUR SOURCES
 
 
