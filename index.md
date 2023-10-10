@@ -20,7 +20,8 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
 [✌️Kpwkp](/key/kpwkp.md)
 
-# *Fav [😎Cp](/key/)
+# *Fav 
+[😎Cp](/key/)
 
 #### D3 
 
