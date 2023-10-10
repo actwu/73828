@@ -31,4 +31,4 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
 [🤓Math]()
 
-[Soon]()
+
