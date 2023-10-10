@@ -16,11 +16,11 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
 [🛜Ict](/key/ict.md)
 
-[😁PersDev]()
+[😁PersDev](/key/IMG_0155.jpeg)
 
-[Soon]()
+[✌️Kpwkp](/key/kpwkp.md)
 
-[Soon]()
+# *Fav [😎Cp](/key/)
 
 #### D3 
 
