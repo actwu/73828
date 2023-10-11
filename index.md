@@ -25,10 +25,10 @@ href="https://actwu.github.io/Web-Dev/mdfutr.css"/>
 
 #### D3 
 
-[🤧Pe]()
+[🤧Pe](/key/pe.md)
 
-[🗣️OralComm]()
+[🗣️OralComm](/key/com.md)
 
-[🤓Math]()
+[🤓Math](/key/math.md)
 
 
