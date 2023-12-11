@@ -1,4 +1,5 @@
-<link rel="icon" href="https://actwu.github.io/study/src/favicon.svg" sizes="any" type="image/svg+xml" />
+<link rel="icon" href="https://actwu.github.io/study/src/favicon.svg" sizes="any"  />
+<link rel="shortcut icon" href="https://actwu.github.io/study/src/favicon.svg" >
 
 <bg></bg>
 <link rel="stylesheet"
